@@ -8,7 +8,7 @@ The Mega Hub for your whole PC. Made for a controller. Start Steam games and any
 Go to **Releases** (on the right) and download MegaHub-Beta.zip. Extract it and run Run-Light.cmd.
 
 ## Feedback
-[your feedback link here]
+https://www.reddit.com/r/Russellite_Studio/
 
 ## Terms
 Free to try during the beta. Please don't re-upload, redistribute or sell it without asking first. All rights reserved.
